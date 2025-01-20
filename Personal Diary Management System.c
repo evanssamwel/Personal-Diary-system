@@ -1,3 +1,6 @@
+/* Enjoy
+Made for fun
+*/
 #include<stdio.h>
 
 #include<stdlib.h>
